@@ -1,0 +1,14 @@
+{
+  "name": "Daily Stoic YouTube Short",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "triggerTimes": [
+      {
+        "mode": "everyDay",
+        "hour": 18,
+        "minute": 0
+      }
+    ]
+  }
+}
